@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+myenv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Model / index files
+*.bin
+*.gguf
+*.faiss

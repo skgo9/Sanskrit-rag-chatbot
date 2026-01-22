@@ -1,5 +1,7 @@
-Create virtual enviornment : python -m venv myenv
-activate the venv = myenv/Scripts/Activate
+Create virtual enviornment 
+python -m venv myenv
+activate the venv 
+myenv/Scripts/Activate
 
 # Sanskrit Document Retrieval-Augmented Generation (RAG) System
 
